@@ -27,6 +27,7 @@ app.use(
 
 // Parse JSON bodies (so we can read req.body)
 app.use(express.json());
+app.set('trust proxy', 1);
 
 // HTTP request logger (shows requests in terminal during dev)
 if (process.env.NODE_ENV === "development") {
