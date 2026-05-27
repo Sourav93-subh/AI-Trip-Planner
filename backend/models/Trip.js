@@ -13,7 +13,7 @@ const activitySchema = new mongoose.Schema({
   description: { type: String, default: "" },
   category: {
     type: String,
-    enum: ["food", "culture", "adventure", "shopping", "transport", "accommodation", "other"],
+    enum: ["food", "culture", "adventure", "shopping", "transport", "accommodation", "nightlife", "nature", "wellness", "sports", "entertainment", "religious", "photography", "other"],
     default: "other",
   },
   estimatedCost: { type: Number, default: 0 },
