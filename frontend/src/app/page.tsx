@@ -64,7 +64,7 @@ export default function HomePage() {
       <section className="max-w-4xl mx-auto px-6 pt-20 pb-16 text-center animate-fade-in">
         <div className="inline-flex items-center gap-2 bg-orange-500/10 border border-orange-500/20 rounded-full px-4 py-2 mb-8">
           <Sparkles size={14} className="text-orange-400" />
-          <span className="text-sm text-orange-300 font-medium">Powered by Claude AI</span>
+          <span className="text-sm text-orange-300 font-medium">Powered by Gemini AI</span>
         </div>
 
         <h1 className="font-display text-5xl md:text-7xl font-bold text-white leading-tight mb-6">
@@ -105,7 +105,7 @@ export default function HomePage() {
 
       {/* ── Footer ── */}
       <footer className="border-t border-gray-800 py-8 text-center text-gray-600 text-sm">
-        Built with Next.js + Claude AI
+        Built with Next.js + Gemini AI
       </footer>
     </main>
   );
