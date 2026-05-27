@@ -137,7 +137,9 @@ npm run dev
 ```
 
 ### 4. Open the app
-Go to **http://localhost:3000** 🎉
+Go to **http://localhost:3000** for local development 🎉
+
+Or visit the live app at **[https://ai-trip-planner-ten-sandy.vercel.app](https://ai-trip-planner-ten-sandy.vercel.app)** 🚀
 
 ---
 
