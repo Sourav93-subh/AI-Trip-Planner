@@ -11,8 +11,8 @@
 
 ## ✨ Live Demo
 
-- **Frontend:** [your-app.vercel.app](#)
-- **Backend API:** [your-api.railway.app](#)
+- **Frontend:** [ai-trip-planner-ten-sandy.vercel.app](https://ai-trip-planner-ten-sandy.vercel.app)
+- **Backend API:** [ai-trip-planner-production-4033.up.railway.app](https://ai-trip-planner-production-4033.up.railway.app/api/health)
 
 ---
 
